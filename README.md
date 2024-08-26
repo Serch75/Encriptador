@@ -2,6 +2,4 @@
 
 -Estado: en desarrollo
 
-Para ejecutar debes poner
-
-¨¨ npm install react ¨¨
+-Estado: Finalizado
